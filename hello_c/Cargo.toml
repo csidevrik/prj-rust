@@ -1,5 +1,5 @@
 [package]
-name = "HelloC"
+name = "hello_c"
 version = "0.1.0"
 edition = "2021"
 
