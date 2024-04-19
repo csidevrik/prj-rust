@@ -1,7 +1,7 @@
 use clap::{App, Arg};
-use log::{info, warn};
+// use log::{info, warn};
 use regex::Regex;
-use std::env;
+// use std::env;
 
 fn main() {
     // Inicializar el logger
