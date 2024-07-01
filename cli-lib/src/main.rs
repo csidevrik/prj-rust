@@ -7,7 +7,7 @@ use std::io::{self, Write};
 fn main() {
     // Verificar el sistema operativo
     let os = env::consts::OS;
-    println!("Sistema operativo detectado: {}", os);
+    // println!("Sistema operativo detectado: {}", os);
 
     if os == "linux" {
         // Definir el directorio
