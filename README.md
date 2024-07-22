@@ -10,6 +10,7 @@ Aqui un articulo interesante
 
 Dentro de este articulo tenemos un acceso para aprender
 
-[curso de google gratis](https://google.github.io/comprehensive-rust/es/)
-
-[brais moure dev](https://www.youtube.com/watch?v=bKcfm2xDQKo)
+* [curso de google gratis](https://google.github.io/comprehensive-rust/es/)
+* [brais moure dev](https://www.youtube.com/watch?v=bKcfm2xDQKo)
+* [curso microsoft]()
+*
