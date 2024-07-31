@@ -33,7 +33,7 @@ pub fn open_pdf_with_chrome(folder_path: &str) {
     open_pdf_with_browser(folder_path, &browser_command);
 }
 
-pub fn get_browser_command(browser: &str) -> String {
+fn get_browser_command(browser: &str) -> String {
     if cfg!(target_os = "linux") {
         match browser {
             "chrome" => "google-chrome".to_string(),
