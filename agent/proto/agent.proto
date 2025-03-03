@@ -1,0 +1,15 @@
+syntax = "proto3";
+package agent;
+
+service AgentService {
+  rpc GetHostInfo (HostInfoRequest) returns (HostInfoResponse);
+}
+
+message HostInfoRequest {}
+
+message HostInfoResponse {
+  string hostname = 1;
+  string architecture = 2;
+  string ipv4_address = 3;
+  string mac_address = 4;
+} 
